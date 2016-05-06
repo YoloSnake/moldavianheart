@@ -27,74 +27,62 @@
 })(jQuery,'smartresize');
 
 
+function () {
+
+    $wrapper = $('#wrapper');
+    $drawerRight = $('#drawer-right');
+
+    ///////////////////////////////
+    // Set Home Slideshow Height
+    ///////////////////////////////
 
 
+    ///////////////////////////////
+    // Center Home Slideshow Text
+    ///////////////////////////////
 
 
+    ///////////////////////////////
+    // SlideNav
+    ///////////////////////////////
 
-(function(){
+    function setSlideNav() {
+        jQuery(".toggleDrawer").click(function (e) {
+            //alert($wrapper.css('marginRight'));
+            e.preventDefault();
 
-	$wrapper = $('#wrapper');
-	$drawerRight = $('#drawer-right');
+            if ($wrapper.css('marginLeft') == '0px') {
+                $drawerRight.animate({marginRight: 0}, 200);
+                $wrapper.animate({marginLeft: -300}, 200);
+            }
+            else {
+                $drawerRight.animate({marginRight: -300}, 200);
+                $wrapper.animate({marginLeft: 0}, 200);
+            }
 
-	///////////////////////////////
-	// Set Home Slideshow Height
-	///////////////////////////////
-
-
-
-	///////////////////////////////
-	// Center Home Slideshow Text
-	///////////////////////////////
-
-
-
-	///////////////////////////////
-	// SlideNav
-	///////////////////////////////
-
-	function setSlideNav(){
-		jQuery(".toggleDrawer").click(function(e){
-			//alert($wrapper.css('marginRight'));
-			e.preventDefault();
-
-			if($wrapper.css('marginLeft')=='0px'){
-				$drawerRight.animate({marginRight : 0},200);
-				$wrapper.animate({marginLeft : -300},200);
-			}
-			else{
-				$drawerRight.animate({marginRight : -300},200);
-				$wrapper.animate({marginLeft : 0},200);
-			}
-			
-		})
-	}
+        })
+    }
 
 
+    ///////////////////////////////
+    // Initialize
+    ///////////////////////////////
+
+    jQuery.noConflict();
+    setHomeBannerHeight();
+    centerHomeBannerText();
+    setSlideNav();
+    setHeaderBackground();
+
+    //Resize events
+    jQuery(window).smartresize(function () {
+        setHomeBannerHeight();
+        centerHomeBannerText();
+        setHeaderBackground();
+    });
 
 
-
-
-	///////////////////////////////
-	// Initialize
-	///////////////////////////////
-
-	jQuery.noConflict();
-	setHomeBannerHeight();
-	centerHomeBannerText();
-	setSlideNav();
-	setHeaderBackground();
-
-	//Resize events
-	jQuery(window).smartresize(function(){
-		setHomeBannerHeight();
-		centerHomeBannerText();
-		setHeaderBackground();
-	});
-
-
-
-	})
+}
 
 	jQuery(window).scroll( function() {
 	   setHeaderBackground();
