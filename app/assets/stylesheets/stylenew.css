@@ -466,3 +466,12 @@ a#tauchi{
         height: 100%;
     }
 }
+
+@media (max-width: 700px) {
+    #header {
+        background-image: url(../assets/header-bg1.jpg);
+    }
+    #contact {
+        background-image: url(../assets/contact.jpg);
+    }
+}

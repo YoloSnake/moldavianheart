@@ -80,15 +80,6 @@
 		})
 	}
 
-	function setHeaderBackground() {		
-		var scrollTop = jQuery(window).scrollTop(); // our current vertical position from the top	
-		
-		if (scrollTop > 300 || jQuery(window).width() < 700) { 
-			jQuery('#header .top').addClass('solid');
-		} else {
-			jQuery('#header .top').removeClass('solid');
-		}
-	}
 
 
 
@@ -101,26 +92,12 @@
 	setHomeBannerHeight();
 	centerHomeBannerText();
 	setSlideNav();
-	setHeaderBackground();
 
 	//Resize events
 	jQuery(window).smartresize(function(){
 		setHomeBannerHeight();
 		centerHomeBannerText();
-		setHeaderBackground();
 	});
 
-
-	//Set Down Arrow Button
-	jQuery('#scrollToContent').click(function(e){
-		e.preventDefault();
-		jQuery.scrollTo("#portfolio", 1000, { offset:-(jQuery('#header .top').height()), axis:'y' });
-	});
-
-
-
-	jQuery(window).scroll( function() {
-	   setHeaderBackground();
-	});
 
 })();
