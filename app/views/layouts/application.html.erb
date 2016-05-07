@@ -1,11 +1,67 @@
 <!DOCTYPE html>
-<html>
+<!--[if IE 7 ]><html class="ie ie7 lte9 lte8 lte7" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 lte9 lte8" lang="en-US">	<![endif]-->
+<!--[if IE 9]><html class="ie ie9 lte9" lang="en-US"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="noIE" lang="en-US">
+<!--<![endif]-->
+
 <head>
   <title>Moldavianheart</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+
+  <link rel="apple-touch-icon" sizes="57x57" href="//www.mdht.herokuapp.com/assets/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="//www.mdht.herokuapp.com/assets/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="//www.mdht.herokuapp.com/assets/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="//www.mdht.herokuapp.com/assets/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="//www.mdht.herokuapp.com/assets/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="//www.mdht.herokuapp.com/assets/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="//www.mdht.herokuapp.com/assets/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="//www.mdht.herokuapp.com/assets/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="//www.mdht.herokuapp.com/assets/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="//www.mdht.herokuapp.com/assets/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="//www.mdht.herokuapp.com/assets/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="//www.mdht.herokuapp.com/assets/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="//www.mdht.herokuapp.com/assets/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="//www.mdht.herokuapp.com/assets/manifest.json">
+  <link rel="mask-icon" href="//www.mdht.herokuapp.com/assets/safari-pinned-tab.svg" color="#e04949">
+  <link rel="shortcut icon" href="//www.mdht.herokuapp.com/assets/favicon.ico">
+  <meta name="msapplication-TileColor" content="#b91d47">
+  <meta name="msapplication-TileImage" content="//www.mdht.herokuapp.com/assets/mstile-144x144.png">
+  <meta name="msapplication-config" content="//www.mdht.herokuapp.com/assets/browserconfig.xml">
+  <meta name="theme-color" content="#b84a72">
+
+  <!-- meta -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+  <!-- google fonts -->
+  <link rel='stylesheet' href='//fonts.googleapis.com/css?family=PT+Sans'>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Droid+Serif:regular,bold"/>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+Sans:regular,italic,bold,bolditalic"/>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Nixie+One:regular,italic,bold,bolditalic"/>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Alegreya+SC:regular,italic,bold,bolditalic"/>
+
+  <!-- css -->
+  <link rel="stylesheet" href="assets/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/font-awesome.css.erb">
+  <link rel="stylesheet" href="assets/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/style.css" media="screen"/>
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="assets/html5shiv.js"></script>
+  <script src="assets/respond.js"></script>
+  <![endif]-->
+
+  <!--[if IE 8]>
+  <script src="assets/selectivizr.js"></script>
+  <![endif]-->
+
 </head>
+
 <body>
 
 <%= yield %>

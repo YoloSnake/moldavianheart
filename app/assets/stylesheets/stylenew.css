@@ -475,3 +475,43 @@ a#tauchi{
         background-image: url(../assets/contact.jpg);
     }
 }
+
+@media (max-width: 800px) and (max-height: 900px) {
+    #services {
+        height: 100%;
+    }
+}
+
+@media (max-height: 556px) {
+    #contact {
+        padding-top: 100px;
+    }
+}
+
+@media (max-width: 991px) {
+    #aboutmdht {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #testimonials {
+        height: 100%
+    }
+}
+
+@media only screen (max-device-width: 700px) and (-webkit-max-device-pixel-ratio: 2) {
+    #header {
+        background-image: url(../assets/header-bg1.jpg);
+    }
+    #contact {
+        background-image: url(../assets/contact.jpg);
+    }
+}
+
+@media (max-device-width: 700px) and (-webkit-max-device-pixel-ratio: 2) {
+    #header {
+        background-image: url(../assets/header-bg1.jpg);
+    }
+    #contact {
+        background-image: url(../assets/contact.jpg);
+    }
+}
