@@ -273,10 +273,6 @@ a#tauchi{
 	margin-top: 60px;
 }
 
-#header {
-	background-image: url(../assets/header-bg1.gif);
-    box-shadow: inset 0 0 0 1000px rgba(95, 90, 61, 0.37);
-}
 #services {
 	background-image: url(../assets/traffic.jpg);
 	color: white;
@@ -587,8 +583,4 @@ a#tauchi{
     #contact {
         background-image: url(../assets/contact.jpg);
     }
-}
-
-#div .noheader {
-    height: 0vh !important;
 }
