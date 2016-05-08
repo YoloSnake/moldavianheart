@@ -42,7 +42,6 @@
 	///////////////////////////////
 
 	function setHomeBannerHeight() {
-		var windowHeight = jQuery(window).height();
 		jQuery('#header').height(windowHeight);
 	}
 
@@ -89,12 +88,10 @@
 	///////////////////////////////
 
 	jQuery.noConflict();
-	centerHomeBannerText();
 	setSlideNav();
 
 	//Resize events
 	jQuery(window).smartresize(function(){
-		centerHomeBannerText();
 	});
 
 
