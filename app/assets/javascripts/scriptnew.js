@@ -42,7 +42,6 @@
 	///////////////////////////////
 
 	function setHomeBannerHeight() {
-		jQuery('#header').height(windowHeight);
 	}
 
 	///////////////////////////////
