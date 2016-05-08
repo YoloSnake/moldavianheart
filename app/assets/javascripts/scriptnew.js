@@ -41,10 +41,7 @@
 	// Set Home Slideshow Height
 	///////////////////////////////
 
-	function setHomeBannerHeight() {
-		var windowHeight = jQuery(window).height();	
-		jQuery('#header').height(windowHeight);
-	}
+
 
 	///////////////////////////////
 	// Center Home Slideshow Text
