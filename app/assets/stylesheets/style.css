@@ -429,9 +429,7 @@ a#tauchi{
 /*////////////////////////////////////////////////////////////////////////
 //  09 - Contact
 ///////////////////////////////////////////////////////////////////////*/
-div .noheader{
-    height: 0vh !important;
-}
+
 
 #contact{
 	color: white;
@@ -591,3 +589,6 @@ div .noheader{
     }
 }
 
+#div .noheader {
+    height: 0vh !important;
+}

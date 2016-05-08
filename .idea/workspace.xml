@@ -2,10 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfafb5cd-d68c-4783-b62b-2fc36401f593" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-a9791d0b9c0ad0b0362a386b7d5cfa99.json" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-a9791d0b9c0ad0b0362a386b7d5cfa99.json" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\.sprockets-manifest-a9791d0b9c0ad0b0362a386b7d5cfa99.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\FontAwesome-3bfc0d9caeec6cca014456d1eea437a680a7eef6fa298bfbb8403feafdb070fd.otf" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\android-chrome-144x144-1f5d478ec4c04bfce143819559af735c495d2cd79fe2cc009a3fb3821dfb5991.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\android-chrome-192x192-5f079f7a11d72eb417604fa33a962c1411c168fc81299783ef9c11ea4311ca13.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\android-chrome-36x36-6a655b0d5c5d27a89f790f196c68df27841736c1f7eb6e459efcc144d3ace915.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\android-chrome-48x48-870b470fcf840914d4da4732433caa8caa49baf6218386a72d89d7cdd709894d.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\android-chrome-72x72-0a4d2530c250eb63530a44e845cb20f4cb004dcd65a461a9a2f5a03f79992a4d.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\android-chrome-96x96-f735a9c4a8dc48b1bf24e6ebf77e1ced105ecdf589a7e781128f8b4cce096dff.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-114x114-579f5a24adc0f859469b2b29de5fc3c9113ea3b76fbab1f9b778e80dd32b4ca0.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-120x120-42253b401b7d871acb98f15e013f5d90fab3c4cf4a434a28a23d565a27b54286.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-144x144-5b5906948687ca44038873e9452e3f46a2440d143bf4f116acefbf4137c4820d.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-152x152-e3b888ea246510f6b2a80d9fc870499836a0cbd1ace959b07c9b9ea67afc1502.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-180x180-d64ac173bafc2bf5e134476328008b3ecce17306041a040c5884216cf927a393.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-57x57-872d35803574bacea2bc06bde8e6760dc7b5d0962e31a8eadce7c4bff24c6d4f.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-60x60-e238ffe2e9959fd85d4e5e5c32868a54ba3acbccd28d19ba9da2d5d88b385fec.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-72x72-1c4ea50f7b3bba20f0bcdf29f239b83e141a5d11e57d2adb2e1fd92a1e5166c5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-76x76-441f7983c1cf002568b5d581927005a88a079f7ab2182f7d9a837a7598908131.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-d64ac173bafc2bf5e134476328008b3ecce17306041a040c5884216cf927a393.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\apple-touch-icon-precomposed-f3845ee21c696df9dddaecfe308c255643579588a11b80f2b246716bd034e428.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\application-0134b48cac86569f716407fdd2546fc581587d6655adc96736da3abd25ef3260.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\application-0134b48cac86569f716407fdd2546fc581587d6655adc96736da3abd25ef3260.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\application-95a831219d206b54f133cb2b4a62e4905ab4a326e910969b5c040a8d25081030.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\application-95a831219d206b54f133cb2b4a62e4905ab4a326e910969b5c040a8d25081030.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\application-ff45e93b8fe05742bed422e54e82eb73fff2dc0efc86f561f37ba2f8bf654391.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\application-ff45e93b8fe05742bed422e54e82eb73fff2dc0efc86f561f37ba2f8bf654391.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\arrow_down-4767f5f29754bd8ab6e63c699aefb4b1f15ab8c0540a919d7d11e7905ecc1c65.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\blue_mac2-2dea4f0ac34f5bb66ee7afde43d00ae4bc9d233dbdc6ee6e7c39dc0f9f1b97f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\browserconfig-3fd4029a83de307f12959ef36d078674c02de25d1ad32cf240adf5c414d42c5d.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\contact-7a3e971629f6524942cf02a3da60eb5bba579e04a3612c0eaea333d21cc8ef94.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\contact-a568d8bd954c2d834f8f7768f74d0165086cd2f1cb7fdeecaa86ec8942201ae3.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\cover-c69258bc309642df4c1dae3d7e8d085503c14108a8ed3f6094ade4253542ebee.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\favicon-16x16-6e8f11ee049e4841702338860384e148955bc8f56d0281405eba35cb2159f32d.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\favicon-32x32-2367f1dd32dc4993adf6acb80e797ceb64e9e03d953990fc3767c78606d7ab57.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\favicon-40fbf63db0cf605cec91a06a548b222255e9ebbbf4462f17cd2985533c24692d.ico" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\favicon-96x96-d1526e2225680f7e82e7ebbbba3f5db49ba98920b16c6a8abaedfcc0b69363ad.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\fontawesome-webfont-2932abf996373e87fbf2e950876b1962f1b57db954a1643ea68831d9fbb74da4.woff2" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\fontawesome-webfont-35fa8302dd7d3d191ebb7acac543efcfa2b85a0da573b3ab45cc122ffcc45ce5.woff" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\fontawesome-webfont-6b0adce775f4d57ac800f23b05af72ced748ae51ba67a65b67b7316f1ed331b3.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\fontawesome-webfont-6b0adce775f4d57ac800f23b05af72ced748ae51ba67a65b67b7316f1ed331b3.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\fontawesome-webfont-8630313bee77f64206067ed80eb6a7c721b0bbfc91c94210966969d4dcc43ba7.ttf" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\fontawesome-webfont-a280856e20cc0af53390b729ca0ac3edbf8fc889a828a379c5d634c91e80c808.eot" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\header-bg1-b9c2a9101990311fab7fbd7495a4c59770142d3ca258ffa3672791349e385eaa.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\header-bg1-dcdbe921f4892c0300b79ba54a300f78dc79170db6f2cb1564d0f25c3ddea8f6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\manifest-d5c599dd058cdbc323cfc3c3512b64543c78eb4af704ced0a1791767a861f8b6.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\manifest-d5c599dd058cdbc323cfc3c3512b64543c78eb4af704ced0a1791767a861f8b6.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\mstile-144x144-544248ef9ecd95fb378a3cb88142ffa1b29ae9c8249136f7c5eb42ab7097e9fe.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\mstile-150x150-d6b66ea8b9ed2d7a2c37308d552d3ca803cac905a6926eb75ca23a923bb5c220.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\mstile-310x150-126d90a8fc9c0ef44c4539e0cb47f9578d7a63cd8b9e794af6992c81a9653468.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\mstile-310x310-2cbc632bf3151ba9a9c65ad933d1bab60e5bc4ec8fd9ef095c66a88d790d5220.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\mstile-70x70-41f9820b5c876354f64100a89f925b741a20b5a47c58851f1ad0f459e681a3d0.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\safari-pinned-tab-191bef6d6c248d4d02400faa7b68424a565ddbea30bba7633638fd06857eccac.svg" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\safari-pinned-tab-191bef6d6c248d4d02400faa7b68424a565ddbea30bba7633638fd06857eccac.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\testimonial_11-190x190-487b6685ad35d8c8f291604fb639b94543580c575a2cc6d91633c4727c0fc349.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\testimonial_22-190x190-744fdaaee142b69051132fa5663d94ace91e2de688c4017f50ca182283736e87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\testimonial_31-190x190-1428578a3defb6548a430f4a9058f870817b0097cd4da5acd67ac179d51aeaed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\traffic-5918371213402be8dea9fa9e9e4d02f441434cfa9b1d0ad1701ea2f2e827c36b.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/portfolio/about.html.erb" afterPath="$PROJECT_DIR$/app/views/portfolio/about.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/portfolio/album.html.erb" afterPath="$PROJECT_DIR$/app/views/portfolio/album.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/portfolio/contact.html.erb" afterPath="$PROJECT_DIR$/app/views/portfolio/contact.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/style.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/stylenew.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/stylenew.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="moldavianheart.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,8 +99,8 @@
       <file leaf-file-name="stylenew.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/stylenew.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.206897">
-              <caret line="363" column="14" selection-start-line="363" selection-start-column="14" selection-end-line="363" selection-end-column="14" />
+            <state vertical-scroll-proportion="-12.896552">
+              <caret line="518" column="27" selection-start-line="518" selection-start-column="27" selection-end-line="518" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -52,8 +109,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4117647">
-              <caret line="434" column="0" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.72">
+              <caret line="592" column="27" selection-start-line="592" selection-start-column="27" selection-end-line="592" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -80,12 +137,12 @@
         <option value="$PROJECT_DIR$/app/assets/images/browserconfig.xml" />
         <option value="$PROJECT_DIR$/app/assets/images/manifest.json" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/scriptnew.js" />
-        <option value="$PROJECT_DIR$/app/views/portfolio/about.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/portfolio/contact.html.erb" />
         <option value="$PROJECT_DIR$/app/views/portfolio/services.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/app/views/portfolio/album.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/portfolio/about.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/portfolio/album.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/portfolio/contact.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/stylenew.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/style.css" />
       </list>
@@ -177,6 +234,10 @@
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -193,10 +254,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -776,26 +833,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/portfolio/about.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.682243">
-          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/portfolio/contact.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64252335">
-          <caret line="104" column="67" selection-start-line="104" selection-start-column="67" selection-end-line="104" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/portfolio/services.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.3691587">
-          <caret line="110" column="67" selection-start-line="110" selection-start-column="67" selection-end-line="110" selection-end-column="67" />
+        <state vertical-scroll-proportion="0.6635514">
+          <caret line="51" column="73" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="73" />
           <folding />
         </state>
       </provider>
@@ -808,34 +849,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/portfolio/album.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/portfolio/services.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.95327103">
-          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        <state vertical-scroll-proportion="-16.153847">
+          <caret line="110" column="67" selection-start-line="110" selection-start-column="67" selection-end-line="110" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/portfolio/contact.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6635514">
-          <caret line="51" column="73" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.62383175">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/portfolio/album.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35747662">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/portfolio/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43691587">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/stylenew.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.206897">
-          <caret line="363" column="14" selection-start-line="363" selection-start-column="14" selection-end-line="363" selection-end-column="14" />
+        <state vertical-scroll-proportion="-12.896552">
+          <caret line="518" column="27" selection-start-line="518" selection-start-column="27" selection-end-line="518" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4117647">
-          <caret line="434" column="0" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.72">
+          <caret line="592" column="27" selection-start-line="592" selection-start-column="27" selection-end-line="592" selection-end-column="27" />
           <folding />
         </state>
       </provider>

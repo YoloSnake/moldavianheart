@@ -227,7 +227,6 @@ a#tauchi{
     margin-top: 60px;
 }
 
-}
 #services {
     background-image: url(../assets/traffic.jpg);
     color: white;
@@ -361,9 +360,6 @@ a#tauchi{
 /*////////////////////////////////////////////////////////////////////////
 //  09 - Contact
 ///////////////////////////////////////////////////////////////////////*/
-div .noheader{
-    height: 0vh !important;
-}
 
 
 #contact{
@@ -517,4 +513,8 @@ div .noheader{
     #contact {
         background-image: url(../assets/contact.jpg);
     }
+}
+
+#div .noheader {
+    height: 0vh !important;
 }
