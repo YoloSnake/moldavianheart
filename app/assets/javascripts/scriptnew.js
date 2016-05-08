@@ -27,65 +27,77 @@
 })(jQuery,'smartresize');
 
 
-function () {
-
-    $wrapper = $('#wrapper');
-    $drawerRight = $('#drawer-right');
-
-    ///////////////////////////////
-    // Set Home Slideshow Height
-    ///////////////////////////////
 
 
-    ///////////////////////////////
-    // Center Home Slideshow Text
-    ///////////////////////////////
 
 
-    ///////////////////////////////
-    // SlideNav
-    ///////////////////////////////
 
-    function setSlideNav() {
-        jQuery(".toggleDrawer").click(function (e) {
-            //alert($wrapper.css('marginRight'));
-            e.preventDefault();
+(function(){
 
-            if ($wrapper.css('marginLeft') == '0px') {
-                $drawerRight.animate({marginRight: 0}, 200);
-                $wrapper.animate({marginLeft: -300}, 200);
-            }
-            else {
-                $drawerRight.animate({marginRight: -300}, 200);
-                $wrapper.animate({marginLeft: 0}, 200);
-            }
+	$wrapper = $('#wrapper');
+	$drawerRight = $('#drawer-right');
 
-        })
-    }
+	///////////////////////////////
+	// Set Home Slideshow Height
+	///////////////////////////////
 
+	function setHomeBannerHeight() {
+		var windowHeight = jQuery(window).height();	
+		jQuery('#header').height(windowHeight);
+	}
 
-    ///////////////////////////////
-    // Initialize
-    ///////////////////////////////
+	///////////////////////////////
+	// Center Home Slideshow Text
+	///////////////////////////////
 
-    jQuery.noConflict();
-    setHomeBannerHeight();
-    centerHomeBannerText();
-    setSlideNav();
-    setHeaderBackground();
+	function centerHomeBannerText() {
+			var bannerText = jQuery('#header > .center');
+			var bannerTextTop = (jQuery('#header').actual('height')) - (jQuery('#header > .center').actual('height'));
 
-    //Resize events
-    jQuery(window).smartresize(function () {
-        setHomeBannerHeight();
-        centerHomeBannerText();
-        setHeaderBackground();
-    });
+			bannerText.show();
+	}
 
 
-}
 
-	jQuery(window).scroll( function() {
-	   setHeaderBackground();
+	///////////////////////////////
+	// SlideNav
+	///////////////////////////////
+
+	function setSlideNav(){
+		jQuery(".toggleDrawer").click(function(e){
+			//alert($wrapper.css('marginRight'));
+			e.preventDefault();
+
+			if($wrapper.css('marginLeft')=='0px'){
+				$drawerRight.animate({marginRight : 0},200);
+				$wrapper.animate({marginLeft : -300},200);
+			}
+			else{
+				$drawerRight.animate({marginRight : -300},200);
+				$wrapper.animate({marginLeft : 0},200);
+			}
+			
+		})
+	}
+
+
+
+
+
+	///////////////////////////////
+	// Initialize
+	///////////////////////////////
+
+	jQuery.noConflict();
+	setHomeBannerHeight();
+	centerHomeBannerText();
+	setSlideNav();
+
+	//Resize events
+	jQuery(window).smartresize(function(){
+		setHomeBannerHeight();
+		centerHomeBannerText();
 	});
+
 
 })();

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfafb5cd-d68c-4783-b62b-2fc36401f593" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\.sprockets-manifest-f0bd063afaa3f2b34235e72751d18b60.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\.sprockets-manifest-c88929d4b63e675dca29a03dc9d01ed8.json" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\FontAwesome-3bfc0d9caeec6cca014456d1eea437a680a7eef6fa298bfbb8403feafdb070fd.otf" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\android-chrome-144x144-1f5d478ec4c04bfce143819559af735c495d2cd79fe2cc009a3fb3821dfb5991.png" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\android-chrome-192x192-5f079f7a11d72eb417604fa33a962c1411c168fc81299783ef9c11ea4311ca13.png" afterPath="" />
@@ -27,7 +27,7 @@
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\application-936beb6eda059a1a4fad57f5ef6d805c68a657294e0f98caedc790ea2bb57efb.js.gz" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\arrow_down-4767f5f29754bd8ab6e63c699aefb4b1f15ab8c0540a919d7d11e7905ecc1c65.png" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\blue_mac2-2dea4f0ac34f5bb66ee7afde43d00ae4bc9d233dbdc6ee6e7c39dc0f9f1b97f2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\browserconfig-94e9d40436b7180725872f1425c54523a665032f27c5321d08a4fd0d948979f6.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\browserconfig-3fd4029a83de307f12959ef36d078674c02de25d1ad32cf240adf5c414d42c5d.xml" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\contact-7a3e971629f6524942cf02a3da60eb5bba579e04a3612c0eaea333d21cc8ef94.jpg" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\contact-a568d8bd954c2d834f8f7768f74d0165086cd2f1cb7fdeecaa86ec8942201ae3.gif" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\cover-c69258bc309642df4c1dae3d7e8d085503c14108a8ed3f6094ade4253542ebee.png" afterPath="" />
@@ -43,8 +43,8 @@
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\fontawesome-webfont-a280856e20cc0af53390b729ca0ac3edbf8fc889a828a379c5d634c91e80c808.eot" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\header-bg1-b9c2a9101990311fab7fbd7495a4c59770142d3ca258ffa3672791349e385eaa.gif" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\header-bg1-dcdbe921f4892c0300b79ba54a300f78dc79170db6f2cb1564d0f25c3ddea8f6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\manifest-6ce23e3ae54f387c17db5a3ee66ad5457fa7f2ced2294f40df5655f1511350e9.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\manifest-6ce23e3ae54f387c17db5a3ee66ad5457fa7f2ced2294f40df5655f1511350e9.json.gz" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\manifest-d5c599dd058cdbc323cfc3c3512b64543c78eb4af704ced0a1791767a861f8b6.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\manifest-d5c599dd058cdbc323cfc3c3512b64543c78eb4af704ced0a1791767a861f8b6.json.gz" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\mstile-144x144-544248ef9ecd95fb378a3cb88142ffa1b29ae9c8249136f7c5eb42ab7097e9fe.png" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\mstile-150x150-d6b66ea8b9ed2d7a2c37308d552d3ca803cac905a6926eb75ca23a923bb5c220.png" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\mstile-310x150-126d90a8fc9c0ef44c4539e0cb47f9578d7a63cd8b9e794af6992c81a9653468.png" afterPath="" />
@@ -56,9 +56,9 @@
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\testimonial_22-190x190-744fdaaee142b69051132fa5663d94ace91e2de688c4017f50ca182283736e87.jpg" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\testimonial_31-190x190-1428578a3defb6548a430f4a9058f870817b0097cd4da5acd67ac179d51aeaed.jpg" afterPath="" />
       <change type="DELETED" beforePath="E:\PROGRAMS\Rails\moldavianheart\public\assets\traffic-5918371213402be8dea9fa9e9e4d02f441434cfa9b1d0ad1701ea2f2e827c36b.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/portfolio/album.html.erb" afterPath="$PROJECT_DIR$/app/views/portfolio/album.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/browserconfig.xml" afterPath="$PROJECT_DIR$/app/assets/images/browserconfig.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/manifest.json" afterPath="$PROJECT_DIR$/app/assets/images/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/scriptnew.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/scriptnew.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="moldavianheart.iws" />
@@ -97,17 +97,27 @@
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/stylenew.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="503" column="5" selection-start-line="503" selection-start-column="5" selection-end-line="503" selection-end-column="5" />
+              <caret line="497" column="5" selection-start-line="497" selection-start-column="5" selection-end-line="497" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.271028">
-              <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+            <state vertical-scroll-proportion="-38.576923">
+              <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="album.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/portfolio/album.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.72196263">
+              <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -144,14 +154,14 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/script.js" />
         <option value="$PROJECT_DIR$/app/views/portfolio/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/portfolio/contact.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/portfolio/album.html.erb" />
         <option value="$PROJECT_DIR$/app/views/portfolio/about.html.erb" />
         <option value="$PROJECT_DIR$/app/views/portfolio/services.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/stylenew.css" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/images/browserconfig.xml" />
         <option value="$PROJECT_DIR$/app/assets/images/manifest.json" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/portfolio/album.html.erb" />
       </list>
     </option>
   </component>
@@ -191,7 +201,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
@@ -301,31 +310,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moldavianheart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moldavianheart" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -516,19 +504,19 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30862328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31316188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33038348" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890856" sideWeight="0.5030257" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33038348" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -817,13 +805,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/portfolio/album.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67523366">
-          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/portfolio/about.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67523366">
@@ -847,13 +828,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
@@ -870,19 +851,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/stylenew.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="503" column="5" selection-start-line="503" selection-start-column="5" selection-end-line="503" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/images/browserconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.26211452">
           <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,7 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.588785">
           <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,14 +869,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.6762114">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/stylenew.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="497" column="5" selection-start-line="497" selection-start-column="5" selection-end-line="497" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.271028">
-          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+        <state vertical-scroll-proportion="-38.576923">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/portfolio/album.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72196263">
+          <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
           <folding />
         </state>
       </provider>
