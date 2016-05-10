@@ -448,10 +448,6 @@ a#tauchi{
     #drawer-right .social {
         margin-top: 5px;
     }
-
-    #header {
-        background-size: cover;
-    }
 }
 
 @media (max-height: 568px) {
@@ -467,9 +463,6 @@ a#tauchi{
 }
 
 @media (max-width: 700px) {
-    #header {
-        background-image: url(../assets/header-bg1.jpg);
-    }
     #contact {
         background-image: url(../assets/contact.jpg);
     }
@@ -498,18 +491,12 @@ a#tauchi{
 }
 
 @media only screen and (max-device-width: 700px) and (-webkit-max-device-pixel-ratio: 2) {
-    #header {
-        background-image: url(../assets/header-bg1.jpg);
-    }
     #contact {
         background-image: url(../assets/contact.jpg);
     }
 }
 
 @media (max-device-width: 700px) and (-webkit-max-device-pixel-ratio: 2) {
-    #header {
-        background-image: url(../assets/header-bg1.jpg);
-    }
     #contact {
         background-image: url(../assets/contact.jpg);
     }
